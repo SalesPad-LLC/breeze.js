@@ -16152,6 +16152,7 @@ breeze.SaveOptions = SaveOptions;
         config: config,
         data: data,
         getHeaders: headers,
+        ngConfig: xconfig,
         status: status,
         statusText: statusText
       };
@@ -16168,6 +16169,7 @@ breeze.SaveOptions = SaveOptions;
         config: config,
         data: data,
         getHeaders: headers,
+        ngConfig: xconfig,
         status: status,
         statusText: statusText
       };
